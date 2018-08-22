@@ -82,8 +82,8 @@ AU327 2.0 随动系统课程设计
 AU329 2.0 IT项目管理  
 CS331 3.0 计算机控制技术  
 CS430 2.0 数据结构  
-EI315 2.0 工程实践与科技创新III-F（Cypress PSoC4）  
-EI318 2.0 工程实践与科技创新IV-E（Python OpenCV）  
+EI315 2.0 工程实践与科技创新III-F（Python OpenCV）
+EI318 2.0 工程实践与科技创新IV-E（Cypress PSoC4）
 MI324 2.0 检测技术B  
 &nbsp;
 &nbsp;
